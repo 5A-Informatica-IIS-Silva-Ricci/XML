@@ -1,0 +1,29 @@
+categorie {
+    display: flex;
+    flex-direction: column;
+    background-color: khaki;
+}
+
+categoria {
+    display: flex;
+    color: cornflowerblue;
+}
+
+categoria:first-child {
+    color: crimson;
+    background-color: yellowgreen;
+    font-weight: bold;
+    text-align: center;
+}
+
+nome {
+    width: 8rem;
+}
+
+descrizione {
+    flex-grow: 1;
+}
+
+nome, descrizione {
+    margin: 0.5rem 1rem;
+}

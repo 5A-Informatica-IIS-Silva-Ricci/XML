@@ -1,0 +1,17 @@
+<!ELEMENT fattura (intestazione, tabella, piede)>
+
+<!ELEMENT intestazione (mittente, destinatario)>
+
+<!ELEMENT mittente ()>
+<!ATTLIST mittente codice_fiscale CDATA #IMPLIED>
+<!ELEMENT destinatario ()>
+<!ATTLIST destinatario codice_fiscale CDATA #IMPLIED>
+
+<!ELEMENT tabella (articolo)+>
+<!ELEMENT articolo (nome, costo)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT costo (#PCDATA)>
+
+<!ELEMENT piede (totale, totale_iva)>
+<!ELEMENT totale (#PCDATA)>
+<!ELEMENT totale_iva (#PCDATA)>

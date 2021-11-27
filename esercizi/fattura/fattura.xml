@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE fattura SYSTEM "fattura.dtd">
+
+<fattura>
+    <intestazione>
+        <mittente>PMNGLI03</mittente>
+        <destinatario>STRLCA03</destinatario>
+    </intestazione>
+    <tabella>
+        <articolo>
+            <nome>Libro TPSIT Quinta</nome>
+            <costo>18</costo>
+        </articolo>
+    </tabella>
+    <piede>
+        <totale>18</totale>
+        <totale_iva>23</totale_iva>
+    </piede>
+</fattura>

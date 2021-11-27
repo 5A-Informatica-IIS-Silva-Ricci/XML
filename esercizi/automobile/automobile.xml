@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE automobile SYSTEM "automobile.dtd">
+
+<automobile>
+    <nome>Audi A8</nome>
+    <marca>Audi</marca>
+    <cilindrata>3000</cilindrata>
+    <prezzo>100000</prezzo>
+    <dimensioni>5.172x1.945x1.453mm</dimensioni>
+    <motore>3,0 l V6, 3,0 l V6 gasolio, 4,0 l V8</motore>
+</automobile>

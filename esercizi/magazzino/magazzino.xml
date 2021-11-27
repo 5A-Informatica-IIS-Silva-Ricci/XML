@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<magazzino>
+    <articolo>
+        <nome>Tavolo</nome>
+        <descrizione>Tavolo 100x50x70cm</descrizione>
+        <costo>50</costo>
+    </articolo>
+    <articolo>
+        <nome>Sedia</nome>
+        <descrizione>Sedia con schienale imbottito</descrizione>
+        <costo>35</costo>
+    </articolo>
+
+    <articolo nome="Tavolo" descrizione="Tavolo 100x50x70cm" costo="50"></articolo>
+    <articolo nome="Sedia" descrizione="Sedia con schienale imbottito" costo="35"></articolo>
+</magazzino>

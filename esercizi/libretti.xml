@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<libretti>
+    <libretto>
+        <studente cdl="Ingegneria elettronica" matr="vr1234">
+            <nome>Riccardo</nome>
+            <cognome>Lionzo</cognome>
+        </studente>
+        <esami>
+            <esame>
+                <materia>Elettronica</materia>
+                <voto>30</voto>
+                <data>
+                    <giorno>29</giorno>
+                    <mese>9</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+            <esame>
+                <materia>Analisi 4</materia>
+                <voto>29</voto>
+                <data>
+                    <giorno>4</giorno>
+                    <mese>10</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+            <esame>
+                <materia>Fisica</materia>
+                <voto>30</voto>
+                <data>
+                    <giorno>14</giorno>
+                    <mese>10</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+        </esami>
+    </libretto>
+    <libretto>
+        <studente cdl="Medicina" matr="vr1454">
+            <nome>Giacomo</nome>
+            <cognome>Pesenato</cognome>
+        </studente>
+        <esami>
+            <esame>
+                <materia>Istologia 1</materia>
+                <voto>30</voto>
+                <data>
+                    <giorno>23</giorno>
+                    <mese>11</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+            <esame>
+                <materia>Chimica</materia>
+                <voto>29</voto>
+                <data>
+                    <giorno>5</giorno>
+                    <mese>12</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+            <esame>
+                <materia>Biologia</materia>
+                <voto>26</voto>
+                <data>
+                    <giorno>26</giorno>
+                    <mese>10</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+        </esami>
+    </libretto>
+    <libretto>
+        <studente cdl="Ingegneria informatica" matr="vr4567">
+            <nome>Pierlorenzo</nome>
+            <cognome>Ambroso</cognome>
+        </studente>
+        <esami>
+            <esame>
+                <materia>Probabilità e statistica</materia>
+                <voto>25</voto>
+                <data>
+                    <giorno>1</giorno>
+                    <mese>10</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+            <esame>
+                <materia>Programmazione 1</materia>
+                <voto>30</voto>
+                <data>
+                    <giorno>5</giorno>
+                    <mese>10</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+            <esame>
+                <materia>Programmazione Funzionale</materia>
+                <voto>30</voto>
+                <data>
+                    <giorno>10</giorno>
+                    <mese>12</mese>
+                    <anno>2021</anno>
+                </data>
+            </esame>
+        </esami>
+    </libretto>
+</libretti>

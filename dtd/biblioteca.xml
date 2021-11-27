@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE biblioteca SYSTEM "biblioteca.dtd">
+
+<biblioteca>
+    <libro>
+        <titolo>Il sentiero di nidi di ragno</titolo>
+        <autore nazione="it">Italo Calvino</autore>
+        <anno>1947</anno>
+    </libro>
+    <libro>
+        <titolo>The Help</titolo>
+        <autore nazione="it">Kathryn Stockett</autore>
+        <autore>Secondo autore</autore>
+    </libro>
+</biblioteca>
